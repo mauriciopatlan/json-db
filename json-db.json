@@ -1,0 +1,25 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "title": "Salmón",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLxVAOhgWBOEt3ACHAxgQCvSf6Jr93lbz7y83O4k8akrrAxAVC&usqp=CAU",
+      "price": "10MXN",
+      "professor": "Mai"
+    },
+    {
+      "id": 2,
+      "title": "Pavo",
+      "image": "https://tienda.scorpion.com.mx/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/1/11269.jpg",
+      "price": "10MXN",
+      "professor": "Tita"
+    },
+    {
+      "id": 3,
+      "title": "Pollo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2KsvCUUCFUdU4HD1ga8reBtYrWkzt5jAn6J97wpUH1hYCa4Y&usqp=CAU",
+      "price": "10MXN",
+      "professor": "Shasha"
+    }
+  ]
+}
